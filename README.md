@@ -1,6 +1,6 @@
 # 🚀 ¡Despega al Mundo de las Matemáticas con Python! 🐍
 
-**¡Bienvenido/a a cursoMatematicas!** 👋
+**¡Bienvenido/a a este curso de Matematicas con Python!** 👋
 
 En este proyecto, transformaremos tu aprendizaje de las matemáticas, combinando su precisión con el poder de Python. Dejarás de ver las matemáticas como algo abstracto y empezarás a crear, experimentar y descubrir su belleza de forma práctica. 
 
@@ -54,7 +54,7 @@ Este proyecto usa las siguientes bibliotecas clave:
 *   `pandas`: 📈 Análisis y manipulación de datos con tablas y series.
 *   `scipy`: 🔬 Funciones avanzadas para cálculo científico, optimización, estadística y más.
 
-Si quieres instalarlas manualmente:
+**Si quieres instalarlas manualmente:**
 
 ```bash
 pip install numpy matplotlib sympy pandas scipy
