@@ -58,8 +58,8 @@ Para instalar manualmente:
 
 ```bash
 pip install numpy matplotlib sympy pandas scipy
-Use code with caution.
-Markdown
+```
+
 ✍️ ¿Cómo Usar Este Curso?
 
 Explora los Módulos: Navega por los directorios para descubrir los temas matemáticos que te interesen.
