@@ -96,18 +96,4 @@ Este proyecto está licenciado bajo la [Licencia MIT](LICENSE).
 ---
 
 ¡Prepárate para explorar las matemáticas como nunca antes con Python! 🎉
-```
 
-### **Pasos Siguientes:**
-1. Crea un archivo llamado `README.md` en la raíz del proyecto `cursoMatematicas` y copia este contenido.
-2. Crea un archivo `requirements.txt` en la raíz del proyecto con las siguientes líneas:
-   ```
-   numpy
-   matplotlib
-   sympy
-   pandas
-   scipy
-   ```
-3. Organiza tu proyecto creando subcarpetas para cada tema, como `fundamentos`, `geometria`, `algebra`, etc.
-
-¿Necesitas ayuda para organizar las carpetas o empezar con los primeros módulos? 😊
