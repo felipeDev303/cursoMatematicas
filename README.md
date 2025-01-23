@@ -73,12 +73,51 @@ pip install numpy matplotlib sympy pandas scipy
 
 *   **¡Pregunta y Comparte!** 💬 Si tienes dudas, consulta la documentación, utiliza el foro (si lo hay), o abre un issue en el repositorio. ¡El aprendizaje es un trabajo en equipo!
 
-## **🌟 ¡Algunos de los Proyectos que te Esperan!**
+## **🗺️ Roadmap del Curso: Índice de Contenidos**
 
-*   **Laboratorio de Cálculo Visual:** 📈 Explora derivadas e integrales a través de gráficos interactivos que te permitirán entender su significado de forma intuitiva.
+Este curso está organizado en módulos temáticos, cada uno con su propio directorio y estructura. A continuación, se detalla cómo está organizado cada capítulo:
 
-*   **Simulador Geométrico:** 📐 Dibuja figuras, calcula propiedades y experimenta con transformaciones geométricas de forma visual y divertida.
-
-*   **Laboratorio de Álgebra Lineal:** 🧮 Resuelve sistemas de ecuaciones, transforma vectores y descubre el poder del álgebra lineal para modelar el mundo que te rodea.
+*   **Capítulo 1: Fundamentos Matemáticos**
+    *   `Capitulo1_FundamentosMatematicos/`
+        *   `README.md`: Explicación teórica y objetivos del capítulo.
+        *   `ejercicios/`: Ejercicios prácticos para aplicar los conceptos.
+        *   `ejemplos/`: Código de ejemplos explicativos.
+        *   `proyectos/`: Mini-proyectos aplicados.
+        *   `tests/`: Pruebas para verificar las soluciones.
+*   **Capítulo 2: Geometría Computacional**
+    *   `Capitulo2_GeometriaComputacional/`
+        *   `README.md`: Explicación teórica y objetivos del capítulo.
+        *   `ejercicios/`: Ejercicios prácticos para aplicar los conceptos.
+        *   `ejemplos/`: Código de ejemplos explicativos.
+        *   `proyectos/`: Mini-proyectos aplicados.
+        *   `tests/`: Pruebas para verificar las soluciones.
+*   **Capítulo 3: Álgebra Lineal**
+    *   `Capitulo3_AlgebraLineal/`
+        *  `README.md`: Explicación teórica y objetivos del capítulo.
+        *  `ejercicios/`: Ejercicios prácticos para aplicar los conceptos.
+        *  `ejemplos/`: Código de ejemplos explicativos.
+        *  `proyectos/`: Mini-proyectos aplicados.
+        *   `tests/`: Pruebas para verificar las soluciones.
+*   **Capítulo 4: Cálculo Diferencial e Integral**
+    *   `Capitulo4_CalculoDiferencialIntegral/`
+        *   `README.md`: Explicación teórica y objetivos del capítulo.
+        *  `ejercicios/`: Ejercicios prácticos para aplicar los conceptos.
+        *  `ejemplos/`: Código de ejemplos explicativos.
+        *  `proyectos/`: Mini-proyectos aplicados.
+        *   `tests/`: Pruebas para verificar las soluciones.
+*   **Capítulo 5: Estadística y Probabilidad**
+    *   `Capitulo5_EstadisticaProbabilidad/`
+        *   `README.md`: Explicación teórica y objetivos del capítulo.
+        *  `ejercicios/`: Ejercicios prácticos para aplicar los conceptos.
+        *   `ejemplos/`: Código de ejemplos explicativos.
+        *   `proyectos/`: Mini-proyectos aplicados.
+        *   `tests/`: Pruebas para verificar las soluciones.
+*   **Capítulo 6: Proyectos Finales**
+    *   `Capitulo6_ProyectosFinales/`
+        *   `README.md`: Explicación teórica y objetivos del capítulo.
+        *   `ejercicios/`: Ejercicios prácticos para aplicar los conceptos.
+        *  `ejemplos/`: Código de ejemplos explicativos.
+        *   `proyectos/`: Mini-proyectos aplicados.
+        *   `tests/`: Pruebas para verificar las soluciones.
 
 
