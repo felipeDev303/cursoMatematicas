@@ -42,7 +42,7 @@ El curso está estructurado en módulos temáticos diseñados para guiarte en ca
     1.  Abre tu editor de código y selecciona "Abrir" o "Open" (o similar).
     2.  Navega hasta la carpeta `cursoMatematicas` y ábrela.
     3.  Crea un entorno virtual (¡es muy recomendado!) y activa el entorno.
-    4.  Instala las bibliotecas necesarias:  `pip install -r requirements.txt`
+    4.  Instala las bibliotecas necesarias: `pip install -r requirements.txt`
 
 **📦 Las Herramientas Esenciales:**
 
@@ -61,31 +61,27 @@ pip install numpy matplotlib sympy pandas scipy
 ```
 ✍️ ¿Cómo Navegar Este Curso?
 
-Explora los Módulos: 🧭 Sumérgete en los temas que más te llamen la atención.
+*   **Explora los Módulos:** 🧭 Sumérgete en los temas que más te llamen la atención.
 
-Profundiza en Cada Módulo:
+*   **Profundiza en Cada Módulo:**
+    *   **Ejemplos:** 📖 Aprende la teoría con ejemplos de código claros y explicativos.
+    *   **Ejercicios:** ✍️ Practica aplicando los conceptos a través de desafíos diseñados para ti.
+    *   **Proyectos:** 🚀 Consolida tu conocimiento desarrollando mini-proyectos que te permitan experimentar y crear.
+    *   **Notas (.md):** 📝 Consulta la documentación teórica para entender el *por qué* de las matemáticas, no solo el *cómo*.
 
-Ejemplos: 📖 Aprende la teoría con ejemplos de código claros y explicativos.
+*   **Experimenta y Desafíate:** 🧪 Modifica el código, prueba diferentes enfoques y crea tus propias visualizaciones.
 
-Ejercicios: ✍️ Practica aplicando los conceptos a través de desafíos diseñados para ti.
-
-Proyectos: 🚀 Consolida tu conocimiento desarrollando mini-proyectos que te permitan experimentar y crear.
-
-Notas (.md): 📝 Consulta la documentación teórica para entender el por qué de las matemáticas, no solo el cómo.
-
-Experimenta y Desafíate: 🧪 Modifica el código, prueba diferentes enfoques y crea tus propias visualizaciones.
-
-¡Pregunta y Comparte! 💬 Si tienes dudas, consulta la documentación, utiliza el foro (si lo hay), o abre un issue en el repositorio. ¡El aprendizaje es un trabajo en equipo!
+*   **¡Pregunta y Comparte!** 💬 Si tienes dudas, consulta la documentación, utiliza el foro (si lo hay), o abre un issue en el repositorio. ¡El aprendizaje es un trabajo en equipo!
 
 🌟 ¡Algunos de los Proyectos que te Esperan!
 
-Laboratorio de Cálculo Visual: 📈 Explora derivadas e integrales a través de gráficos interactivos que te permitirán entender su significado de forma intuitiva.
+*   **Laboratorio de Cálculo Visual:** 📈 Explora derivadas e integrales a través de gráficos interactivos que te permitirán entender su significado de forma intuitiva.
 
-Simulador Geométrico: 📐 Dibuja figuras, calcula propiedades y experimenta con transformaciones geométricas de forma visual y divertida.
+*   **Simulador Geométrico:** 📐 Dibuja figuras, calcula propiedades y experimenta con transformaciones geométricas de forma visual y divertida.
 
-Laboratorio de Álgebra Lineal: 🧮 Resuelve sistemas de ecuaciones, transforma vectores y descubre el poder del álgebra lineal para modelar el mundo que te rodea.
+*   **Laboratorio de Álgebra Lineal:** 🧮 Resuelve sistemas de ecuaciones, transforma vectores y descubre el poder del álgebra lineal para modelar el mundo que te rodea.
 
-[Añade tus propios proyectos aquí, ¡nos encantaría ver tu creatividad!] 🚀
+*   **[Añade tus propios proyectos aquí, ¡nos encantaría ver tu creatividad!]** 🚀
 
 🤝 ¡Tu Contribución es Valiosa!
 
