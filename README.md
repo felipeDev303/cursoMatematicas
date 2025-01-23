@@ -59,7 +59,7 @@ Si quieres instalarlas manualmente:
 ```bash
 pip install numpy matplotlib sympy pandas scipy
 ```
-✍️ ¿Cómo Navegar Este Curso?
+**✍️ ¿Cómo Navegar Este Curso?**
 
 *   **Explora los Módulos:** 🧭 Sumérgete en los temas que más te llamen la atención.
 
@@ -73,7 +73,7 @@ pip install numpy matplotlib sympy pandas scipy
 
 *   **¡Pregunta y Comparte!** 💬 Si tienes dudas, consulta la documentación, utiliza el foro (si lo hay), o abre un issue en el repositorio. ¡El aprendizaje es un trabajo en equipo!
 
-🌟 ¡Algunos de los Proyectos que te Esperan!
+**🌟 ¡Algunos de los Proyectos que te Esperan!**
 
 *   **Laboratorio de Cálculo Visual:** 📈 Explora derivadas e integrales a través de gráficos interactivos que te permitirán entender su significado de forma intuitiva.
 
@@ -83,11 +83,11 @@ pip install numpy matplotlib sympy pandas scipy
 
 *   **[Añade tus propios proyectos aquí, ¡nos encantaría ver tu creatividad!]** 🚀
 
-🤝 ¡Tu Contribución es Valiosa!
+**🤝 ¡Tu Contribución es Valiosa!**
 
 ¡Únete a la comunidad! 💡 Si tienes ideas, mejoras o encuentras algún error, siéntete libre de hacer un fork del repositorio y enviar un pull request. ¡Tu participación es bienvenida!
 
-📜 Licencia:
+**📜 Licencia:**
 
 Este proyecto se distribuye bajo la Licencia MIT, lo que significa que eres libre de usarlo, modificarlo y compartirlo.
 
